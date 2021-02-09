@@ -20,19 +20,19 @@
                         	@csrf
                             <div class="form-group">
                                 <label>Kode Buku</label>
-                                <input class="form-control" name="code">
+                                <input class="form-control" name="code" required>
                             </div>
                             <div class="form-group">
                                 <label>Judul Buku</label>
-                                <input class="form-control" name="judul">
+                                <input class="form-control" name="judul" required>
                             </div>
                             <div class="form-group">
                                 <label>Penulis Buku</label>
-                                <input class="form-control" name="penulis">
+                                <input class="form-control" name="penulis" required>
                             </div>
                             <div class="form-group">
                                 <label>Tanggal Terbit Buku</label>
-                                <input class="form-control" name="tgl_terbit">
+                                <input class="form-control" name="tgl_terbit" required>
                             </div>
                             <button type="submit" class="btn btn-default">Simpan</button>
                         </form>
