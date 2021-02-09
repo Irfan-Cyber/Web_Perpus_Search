@@ -63,11 +63,11 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 
 - Read Buku Data Tables
 
-![Screenshot (339)](https://user-images.githubusercontent.com/56946836/107336943-4f49e100-6aec-11eb-8d96-ff2386207d7d.png)
 ![Screenshot (338)](https://user-images.githubusercontent.com/56946836/107336946-4fe27780-6aec-11eb-9e2b-c5d385b54cbc.png)
 
+- Ubah Data
 
-
+![Screenshot (339)](https://user-images.githubusercontent.com/56946836/107336943-4f49e100-6aec-11eb-8d96-ff2386207d7d.png)
 
 
 # Link hosting
