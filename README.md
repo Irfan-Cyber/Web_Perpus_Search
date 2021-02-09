@@ -15,8 +15,8 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 ## Fitur
 
 1. Website berguna untuk login ke perpus_search
-2. registrasi sebelum masuk user harus memiliki akun terlebih dahulu
-3. login setelah memiliki akun user dapat login ke halaman perpus_search
+2. registrasi berfungsi supaya user memiliki akun terlebih dahulu sebelum login
+3. login dipakai setelah memiliki akun agar user dapat login ke halaman perpus_search
 4. logout cara logout di perpus_search user harus klik logo perpus_serarch
 3. Home merupakan halaman awal setelah login
 4. Create buku merupakan create data buku
