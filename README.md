@@ -51,7 +51,22 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 
 - Login
 
-![Screenshot (333)](https://user-images.githubusercontent.com/56946836/107335862-06455d00-6aeb-11eb-8809-07d7c1fe404d.png)
+![Screenshot (335)](https://user-images.githubusercontent.com/56946836/107336819-27f31400-6aec-11eb-81a2-5ea5c517bbbd.png)
+
+- Create Buku
+
+![Screenshot (336)](https://user-images.githubusercontent.com/56946836/107336845-2f1a2200-6aec-11eb-8b0b-b5609e1b57e5.png)
+
+- Read Buku
+
+![Screenshot (337)](https://user-images.githubusercontent.com/56946836/107336937-4e18b400-6aec-11eb-967c-94686f2fb776.png)
+
+- Read Buku Data Tables
+
+![Screenshot (339)](https://user-images.githubusercontent.com/56946836/107336943-4f49e100-6aec-11eb-8d96-ff2386207d7d.png)
+![Screenshot (338)](https://user-images.githubusercontent.com/56946836/107336946-4fe27780-6aec-11eb-9e2b-c5d385b54cbc.png)
+
+
 
 
 
