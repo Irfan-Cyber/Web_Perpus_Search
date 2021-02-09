@@ -19,7 +19,7 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 3. login dipakai setelah memiliki akun agar user dapat login ke halaman perpus_search
 4. logout cara logout di perpus_search user harus klik logo perpus_serarch
 3. Home merupakan halaman awal setelah login
-4. Create buku merupakan create data buku
+4. Create buku merupakan fitur untuk memasukkan data buku
 5. Read buku digunakan untuk read seluruh data buku
 6. Read buku data tables digunakan untuk read, update, delete, search data buku
 
