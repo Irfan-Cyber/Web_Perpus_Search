@@ -47,7 +47,7 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 ## Preview Fitur
 - Register 
 
-https://github.com/Irfan-Cyber/Web_Perpus_Search/issues/1#issue-804302134
+![Screenshot (332)](https://user-images.githubusercontent.com/56946836/107331457-836dd380-6ae5-11eb-8d9a-ee67723cf578.png)
 
 
 # Link hosting
