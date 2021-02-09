@@ -45,8 +45,8 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 - Database : [mysql](https://www.mysql.com/)
 
 ## Preview Fitur
+- Register 
 
-Menyusul
 
 # Link hosting
 hosting: .......
