@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Buku;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 use DataTables;
 
 class BukuController extends Controller
@@ -96,6 +97,11 @@ class BukuController extends Controller
 
     public function dataTable(Request $request)
     {
+
+        $user = Auth::check();
+        if(!$user){
+            return redirect()->route('login');
+        }
         if($request->ajax())
         {
            $buku = Buku::select();
