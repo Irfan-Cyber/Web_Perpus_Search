@@ -1,7 +1,7 @@
 # Kelompok 1
-1 Irfan Mulyana Abdillah 18104013
-2 Ninik Mei Syaputri 18104017
-3 Helmi Apriyanda 18104036
+1. Irfan Mulyana Abdillah 18104013.
+2. Ninik Mei Syaputri 18104017.
+3. Helmi Apriyanda 18104036.
 
 # Website Perpus_search
 
