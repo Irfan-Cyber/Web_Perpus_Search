@@ -29,11 +29,11 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 - composer update -vvv
 - copy .env.example .env
 - setting koneksi database nama database bebas di .env
-	  !rubah bagian: 
-	    !DB_Database=perpus_search
-	    !DB_Username=root
-	    !DB_password=
-      ![setelah itu jangan lupa save]
+	- rubah bagian: 
+	  - DB_Database=perpus_search
+	  - DB_Username=root
+	  - DB_password=
+      	  - setelah itu jangan lupa save
 - php artisan key:generate
 - php artisan migrate
 - php artisan serve
