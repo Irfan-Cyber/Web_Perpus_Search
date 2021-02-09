@@ -45,6 +45,10 @@ Website perpus_search merupakan website untuk membantu masyarakat dalam mencari 
 - Database : [mysql](https://www.mysql.com/)
 
 ## Preview Fitur
+- Website
+
+![Screenshot (344)](https://user-images.githubusercontent.com/56946836/107340767-b8335800-6af0-11eb-8817-192ca6669b2c.png)
+
 - Register 
 
 ![Screenshot (332)](https://user-images.githubusercontent.com/56946836/107331457-836dd380-6ae5-11eb-8d9a-ee67723cf578.png)
